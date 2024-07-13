@@ -1,0 +1,32 @@
+nav{
+        display: flex;
+        width: 100%;
+        height: 60px;
+        padding-top: 70px;
+        
+        right: 90px;
+        padding-left: 500px;
+      
+
+        margin-left: 200px;
+        align-items:end;
+        
+        
+        
+}
+span{
+    cursor: pointer;
+    font-size: 1.3rem;
+    padding: 10px;
+    border-radius: 2px solid;
+    background-color: rgb(70, 223, 243);
+    
+
+}
+
+a{
+    margin-top: 40px;
+    padding: 10px;
+    color: rgb(243, 243, 243);
+    text-decoration: none;
+}

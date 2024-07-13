@@ -1,0 +1,31 @@
+button{
+    position: absolute;
+    left: 1020px;
+    
+    top: 320px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(73, 182, 250);
+
+    color: azure;
+
+}
+h1{
+    position: absolute;
+    left: 400px;
+    top: 250px;
+}
+body{
+    background-image: url("https://www.tugraz.at/fileadmin/user_upload/tugrazInternal/News_Stories/TU_Graz_Blog/2022/ISA_Study_life_balance_Miha/Back-to-study-by-hd3dsh-AdobeStock.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    padding-left: 400px;
+    color: aliceblue;
+
+}
+a{
+    color: rgb(255, 255, 255);
+}
+

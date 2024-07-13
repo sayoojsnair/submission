@@ -1,0 +1,22 @@
+<h1>Courses</h1>
+
+<div>
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>S.No</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Batch name</th>
+            </tr>
+        </thead>
+        <tbody *ngFor="let item of stdformList; let i=index">
+            <tr>
+                <td>{{i+1}}</td>
+                <td>{{item.formName}}</td>
+                <td>{{item.formEmail}}</td>
+                <td>{{item.formBatch}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
